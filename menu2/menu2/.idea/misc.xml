@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Halit/Desktop/menu2/app/src/main/res/layout/activity_tarih.xml" value="0.2843601895734597" />
+        <entry key="..\:/Users/Halit/Desktop/menu2/app/src/main/res/layout/menu_yonlendirme_cekmecesi.xml" value="0.1" />
+        <entry key="..\:/Users/Halit/Desktop/menu2/app/src/main/res/layout/tarihhesap.xml" value="0.25" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/drawable/circle.xml" value="0.2703125" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/drawable/ic_baseline_calculate_24.xml" value="0.1" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/drawable/ic_baseline_device_thermostat_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/drawable/ic_baseline_science.xml" value="0.2703125" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/drawable/ic_bolt.xml" value="0.2703125" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/drawable/ic_calculate.xml" value="0.2703125" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/drawable/ic_calendar.xml" value="0.2703125" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/drawable/ic_calendar_view.xml" value="0.2703125" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/drawable/ic_calendarblack.xml" value="0.2703125" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/drawable/ic_calender.xml" value="0.2703125" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/drawable/ic_cellular.xml" value="0.2703125" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/drawable/ic_code.xml" value="0.2703125" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/drawable/ic_data.xml" value="0.2703125" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/drawable/ic_fire_department.xml" value="0.2703125" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/drawable/ic_history.xml" value="0.2703125" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2361111111111111" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/drawable/ic_money.xml" value="0.2703125" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/drawable/ic_run.xml" value="0.2703125" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/drawable/ic_science.xml" value="0.2703125" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/drawable/ic_speed.xml" value="0.2703125" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/drawable/ic_thermostat.xml" value="0.2703125" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/drawable/ic_watch_later.xml" value="0.2703125" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/drawable/ic_work.xml" value="0.2703125" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/drawable/tus.xml" value="0.2703125" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/drawable/tusstyle.xml" value="0.2703125" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/layout/aci_toolbar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/layout/activity_aci.xml" value="0.4742468415937804" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/layout/activity_agirlik.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/layout/activity_alan.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/layout/activity_basinc.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/layout/activity_bilimsel.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/layout/activity_enerji.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/layout/activity_guc.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/layout/activity_hacim.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/layout/activity_hiz.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/layout/activity_main.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/layout/activity_para.xml" value="0.4742468415937804" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/layout/activity_programlayici.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/layout/activity_sicaklik.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/layout/activity_tarih.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/layout/activity_uzunluk.xml" value="0.264" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/layout/activity_veri.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/layout/activity_zaman.xml" value="0.2" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/layout/agirlik_toolbar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/layout/alan_toolbar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/layout/basinc_toolbar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/layout/bilimsel_toolbar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/layout/bilimseltuslar.xml" value="0.18085106382978725" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/layout/enerji_toolbar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/layout/guc_toolbar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/layout/hacim_toolbar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/layout/history_window.xml" value="0.264" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/layout/hiz_toolbar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/layout/list_group_1_alan.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/layout/list_item_1_alan.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/layout/main_toolbar.xml" value="0.5" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/layout/menu_buton_alan.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/layout/menu_yonlendirme_cekmecesi.xml" value="0.264" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/layout/para_toolbar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/layout/programlayici_toolbar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/layout/programtus.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/layout/sicaklik_toolbar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/layout/standarttuslar.xml" value="0.4" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/layout/tarih_toolbar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/layout/tarihhesap.xml" value="0.264" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/layout/tus.xml" value="1.2" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/layout/tuslar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/layout/uzunluk_toolbar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/layout/veri_toolbar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/gamze/AndroidStudioProjects/menu2/app/src/main/res/layout/zaman_toolbar.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

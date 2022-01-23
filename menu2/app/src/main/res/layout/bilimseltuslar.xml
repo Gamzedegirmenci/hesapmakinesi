@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        tools:ignore="MissingConstraints">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:ignore="MissingConstraints">
+
+
+            <TableLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="right">
+
+
+                <TableRow
+                    android:layout_width="90dp"
+                    android:layout_height="wrap_content"
+                    android:gravity="right">
+
+                    <Button
+                        android:id="@+id/bikind"
+                        style="@style/Theme.AppCompat.Light.DarkActionBar"
+                        android:layout_width="90dp"
+                        android:layout_height="60dp"
+                        android:layout_margin="3dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/circle"
+                        android:backgroundTint="@color/orange"
+                        android:text="@string/ikind"
+                        android:textAllCaps="false"
+                        android:textColor="@color/blackacik"
+                        android:textSize="20sp" />
+
+                    <Button
+                        android:id="@+id/bpi"
+                        style="@style/Theme.AppCompat.Light.DarkActionBar"
+                        android:layout_width="90dp"
+                        android:layout_height="60dp"
+                        android:layout_margin="3dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/circle"
+                        android:backgroundTint="@color/orange"
+                        android:text="@string/pi"
+                        android:textAllCaps="false"
+                        android:textColor="@color/blackacik"
+                        android:textSize="20sp" />
+
+                    <Button
+                        android:id="@+id/be"
+                        style="@style/Theme.AppCompat.Light.DarkActionBar"
+                        android:layout_width="90dp"
+                        android:layout_height="60dp"
+                        android:layout_margin="3dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/circle"
+                        android:backgroundTint="@color/orange"
+                        android:text="@string/e"
+                        android:textAllCaps="false"
+                        android:textColor="@color/blackacik"
+                        android:textSize="20sp" />
+
+                    <Button
+                        android:id="@+id/bce"
+                        style="@style/Theme.AppCompat.Light.DarkActionBar"
+                        android:layout_width="90dp"
+                        android:layout_height="60dp"
+                        android:layout_margin="3dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/circle"
+                        android:backgroundTint="@color/orange"
+                        android:text="@string/CE"
+                        android:textColor="@color/blackacik"
+                        android:textSize="20sp" />
+
+                    <Button
+                        android:id="@+id/bdelete"
+                        style="@style/Theme.AppCompat.Light.DarkActionBar"
+                        android:layout_width="90dp"
+                        android:layout_height="60dp"
+                        android:layout_margin="3dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/circle"
+                        android:backgroundTint="@color/orange"
+                        android:text="@string/delete"
+                        android:textColor="@color/blackacik"
+                        android:textSize="20sp" />
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="90dp"
+                    android:layout_height="wrap_content"
+                    android:gravity="right">
+
+                    <Button
+                        android:id="@+id/bus"
+                        style="@style/Theme.AppCompat.Light.DarkActionBar"
+                        android:layout_width="90dp"
+                        android:layout_height="60dp"
+                        android:layout_margin="3dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/circle"
+                        android:backgroundTint="@color/orange"
+                        android:text="@string/us"
+                        android:textAllCaps="false"
+                        android:textColor="@color/blackacik"
+                        android:textSize="20sp" />
+
+                    <Button
+                        android:id="@+id/bkesir"
+                        style="@style/Theme.AppCompat.Light.DarkActionBar"
+                        android:layout_width="90dp"
+                        android:layout_height="60dp"
+                        android:layout_margin="3dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/circle"
+                        android:backgroundTint="@color/orange"
+                        android:text="@string/kesir"
+                        android:textColor="@color/blackacik"
+                        android:textSize="20sp" />
+
+                    <Button
+                        android:id="@+id/bmutlak"
+                        style="@style/Theme.AppCompat.Light.DarkActionBar"
+                        android:layout_width="90dp"
+                        android:layout_height="60dp"
+                        android:layout_margin="3dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/circle"
+                        android:backgroundTint="@color/orange"
+                        android:text="@string/mutlak"
+                        android:textAllCaps="false"
+                        android:textColor="@color/blackacik"
+                        android:textSize="20sp" />
+
+                    <Button
+                        android:id="@+id/bexp"
+                        style="@style/Theme.AppCompat.Light.DarkActionBar"
+                        android:layout_width="90dp"
+                        android:layout_height="60dp"
+                        android:layout_margin="3dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/circle"
+                        android:backgroundTint="@color/orange"
+                        android:text="@string/exp"
+                        android:textAllCaps="false"
+                        android:textColor="@color/blackacik"
+                        android:textSize="20sp" />
+
+                    <Button
+                        android:id="@+id/bmod"
+                        android:layout_width="90dp"
+                        android:layout_height="60dp"
+                        android:layout_margin="3dp"
+                        android:layout_weight="1"
+                        style="@style/Theme.AppCompat.Light.DarkActionBar"
+                        android:background="@drawable/circle"
+                        android:backgroundTint="@color/orange"
+                        android:text="@string/mod"
+                        android:textAllCaps="false"
+                        android:textColor="@color/blackacik"
+                        android:textSize="19sp" />
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="90dp"
+                    android:layout_height="wrap_content"
+                    android:gravity="right">
+
+                    <Button
+                        android:id="@+id/bkok"
+                        android:layout_width="90dp"
+                        android:layout_height="60dp"
+                        android:layout_margin="3dp"
+                        android:layout_weight="1"
+                        style="@style/Theme.AppCompat.Light.DarkActionBar"
+                        android:background="@drawable/circle"
+                        android:backgroundTint="@color/orange"
+                        android:text="@string/kok"
+                        android:textColor="@color/blackacik"
+                        android:textSize="20sp" />
+
+                    <Button
+                        android:id="@+id/bparantezac"
+                        android:layout_width="90dp"
+                        android:layout_height="60dp"
+                        android:layout_margin="3dp"
+                        android:layout_weight="1"
+                        style="@style/Theme.AppCompat.Light.DarkActionBar"
+                        android:background="@drawable/circle"
+                        android:backgroundTint="@color/orange"
+                        android:text="@string/parantezac"
+                        android:textColor="@color/blackacik"
+                        android:textSize="20sp" />
+
+                    <Button
+                        android:id="@+id/bparantezkapa"
+                        android:layout_width="90dp"
+                        android:layout_height="60dp"
+                        android:layout_margin="3dp"
+                        android:layout_weight="1"
+                        style="@style/Theme.AppCompat.Light.DarkActionBar"
+                        android:background="@drawable/circle"
+                        android:backgroundTint="@color/orange"
+                        android:text="@string/parantezkapa"
+                        android:textColor="@color/blackacik"
+                        android:textSize="20sp" />
+
+                    <Button
+                        android:id="@+id/bfaktoriyel"
+                        android:layout_width="90dp"
+                        android:layout_height="60dp"
+                        android:layout_margin="3dp"
+                        android:layout_weight="1"
+                        style="@style/Theme.AppCompat.Light.DarkActionBar"
+                        android:background="@drawable/circle"
+                        android:backgroundTint="@color/orange"
+                        android:text="@string/faktor"
+                        android:textAllCaps="false"
+                        android:textColor="@color/blackacik"
+                        android:textSize="20sp" />
+
+                    <Button
+                        android:id="@+id/bbol"
+                        android:layout_width="90dp"
+                        android:layout_height="60dp"
+                        android:layout_margin="3dp"
+                        android:layout_weight="1"
+                        style="@style/Theme.AppCompat.Light.DarkActionBar"
+                        android:background="@drawable/circle"
+                        android:backgroundTint="@color/orange"
+                        android:text="@string/bol"
+                        android:textColor="@color/blackacik"
+                        android:textSize="20sp" />
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+
+                    <Button
+                        android:id="@+id/bxusy"
+                        android:layout_width="90dp"
+                        android:layout_height="60dp"
+                        android:layout_margin="3dp"
+                        android:layout_weight="1"
+                        style="@style/Theme.AppCompat.Light.DarkActionBar"
+                        android:background="@drawable/circle"
+                        android:backgroundTint="@color/orange"
+                        android:text="@string/xussuy"
+                        android:textAllCaps="false"
+                        android:textColor="@color/blackacik"
+                        android:textSize="20sp" />
+
+                    <Button
+                        android:id="@+id/b7"
+                        android:layout_width="90dp"
+                        android:layout_height="60dp"
+                        android:layout_margin="3dp"
+                        android:layout_weight="1"
+                        style="@style/Theme.AppCompat.Light.DarkActionBar"
+                        android:background="@drawable/circle"
+                        android:backgroundTint="@color/blackacik"
+                        android:text="@string/b7"
+                        android:textColor="@color/orange"
+                        android:textSize="20sp" />
+
+                    <Button
+                        android:id="@+id/b8"
+                        android:layout_width="90dp"
+                        android:layout_height="60dp"
+                        android:layout_margin="3dp"
+                        android:layout_weight="1"
+                        style="@style/Theme.AppCompat.Light.DarkActionBar"
+                        android:background="@drawable/circle"
+                        android:backgroundTint="@color/blackacik"
+                        android:text="@string/b8"
+                        android:textColor="@color/orange"
+                        android:textSize="20sp" />
+
+                    <Button
+                        android:id="@+id/b9"
+                        android:layout_width="90dp"
+                        android:layout_height="60dp"
+                        android:layout_margin="3dp"
+                        android:layout_weight="1"
+                        style="@style/Theme.AppCompat.Light.DarkActionBar"
+                        android:background="@drawable/circle"
+                        android:backgroundTint="@color/blackacik"
+                        android:text="@string/b9"
+                        android:textColor="@color/orange"
+                        android:textSize="20sp" />
+
+                    <Button
+                        android:id="@+id/bcarp"
+                        android:layout_width="90dp"
+                        android:layout_height="60dp"
+                        android:layout_margin="3dp"
+                        android:layout_weight="1"
+                        style="@style/Theme.AppCompat.Light.DarkActionBar"
+                        android:background="@drawable/circle"
+                        android:backgroundTint="@color/orange"
+                        android:text="@string/carp"
+                        android:textColor="@color/blackacik"
+                        android:textSize="20sp" />
+
+
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+
+                    <Button
+                        android:id="@+id/bonusx"
+                        android:layout_width="90dp"
+                        android:layout_height="60dp"
+                        android:layout_margin="3dp"
+                        android:layout_weight="1"
+                        style="@style/Theme.AppCompat.Light.DarkActionBar"
+                        android:background="@drawable/circle"
+                        android:backgroundTint="@color/orange"
+                        android:text="@string/onx"
+                        android:textAllCaps="false"
+                        android:textColor="@color/blackacik"
+                        android:textSize="19sp" />
+
+                    <Button
+                        android:id="@+id/b4"
+                        android:layout_width="90dp"
+                        android:layout_height="60dp"
+                        android:layout_margin="3dp"
+                        android:layout_weight="1"
+                        style="@style/Theme.AppCompat.Light.DarkActionBar"
+                        android:background="@drawable/circle"
+                        android:backgroundTint="@color/blackacik"
+                        android:text="@string/b4"
+                        android:textColor="@color/orange"
+                        android:textSize="20sp" />
+
+                    <Button
+                        android:id="@+id/b5"
+                        android:layout_width="90dp"
+                        android:layout_height="60dp"
+                        android:layout_margin="3dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/circle"
+                        android:backgroundTint="@color/blackacik"
+                        android:text="@string/b5"
+                        android:textColor="@color/orange"
+                        android:textSize="20sp" />
+
+                    <Button
+                        android:id="@+id/b6"
+                        android:layout_width="90dp"
+                        android:layout_height="60dp"
+                        android:layout_margin="3dp"
+                        android:layout_weight="1"
+                        style="@style/Theme.AppCompat.Light.DarkActionBar"
+                        android:background="@drawable/circle"
+                        android:backgroundTint="@color/blackacik"
+                        android:text="@string/b6"
+                        android:textColor="@color/orange"
+                        android:textSize="20sp" />
+
+                    <Button
+                        android:id="@+id/bcikar"
+                        android:layout_width="90dp"
+                        android:layout_height="60dp"
+                        android:layout_margin="3dp"
+                        android:layout_weight="1"
+                        style="@style/Theme.AppCompat.Light.DarkActionBar"
+                        android:background="@drawable/circle"
+                        android:backgroundTint="@color/orange"
+                        android:text="@string/cikar"
+                        android:textColor="@color/blackacik"
+                        android:textSize="20sp" />
+
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+
+                    <Button
+                        android:id="@+id/blog"
+                        android:layout_width="90dp"
+                        android:layout_height="60dp"
+                        android:layout_margin="3dp"
+                        android:layout_weight="1"
+                        style="@style/Theme.AppCompat.Light.DarkActionBar"
+                        android:background="@drawable/circle"
+                        android:backgroundTint="@color/orange"
+                        android:text="@string/log"
+                        android:textAllCaps="false"
+                        android:textColor="@color/blackacik"
+                        android:textSize="20sp" />
+
+                    <Button
+                        android:id="@+id/b1"
+                        android:layout_width="90dp"
+                        android:layout_height="60dp"
+                        android:layout_margin="3dp"
+                        android:layout_weight="1"
+                        style="@style/Theme.AppCompat.Light.DarkActionBar"
+                        android:background="@drawable/circle"
+                        android:backgroundTint="@color/blackacik"
+                        android:text="@string/b1"
+                        android:textColor="@color/orange"
+                        android:textSize="20sp" />
+
+                    <Button
+                        android:id="@+id/b2"
+                        android:layout_width="90dp"
+                        android:layout_height="60dp"
+                        android:layout_margin="3dp"
+                        android:layout_weight="1"
+                        style="@style/Theme.AppCompat.Light.DarkActionBar"
+                        android:background="@drawable/circle"
+                        android:backgroundTint="@color/blackacik"
+                        android:text="@string/b2"
+                        android:textColor="@color/orange"
+                        android:textSize="20sp" />
+
+
+                    <Button
+                        android:id="@+id/b3"
+                        android:layout_width="90dp"
+                        android:layout_height="60dp"
+                        android:layout_margin="3dp"
+                        android:layout_weight="1"
+                        style="@style/Theme.AppCompat.Light.DarkActionBar"
+                        android:background="@drawable/circle"
+                        android:backgroundTint="@color/blackacik"
+                        android:text="@string/b3"
+                        android:textColor="@color/orange"
+                        android:textSize="20sp" />
+
+                    <Button
+                        android:id="@+id/btopla"
+                        android:layout_width="90dp"
+                        android:layout_height="60dp"
+                        android:layout_margin="3dp"
+                        android:layout_weight="1"
+                        style="@style/Theme.AppCompat.Light.DarkActionBar"
+                        android:background="@drawable/circle"
+                        android:backgroundTint="@color/orange"
+                        android:text="@string/topla"
+                        android:textColor="@color/blackacik"
+                        android:textSize="20sp" />
+
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="right">
+
+                    <Button
+                        android:id="@+id/bın"
+                        android:layout_width="90dp"
+                        android:layout_height="60dp"
+                        android:layout_margin="3dp"
+                        android:layout_weight="1"
+                        style="@style/Theme.AppCompat.Light.DarkActionBar"
+                        android:background="@drawable/circle"
+                        android:backgroundTint="@color/orange"
+                        android:text="@string/ın"
+                        android:textAllCaps="false"
+                        android:textColor="@color/blackacik"
+                        android:textSize="20sp" />
+
+                    <Button
+                        android:id="@+id/bplusMinus"
+                        android:layout_width="90dp"
+                        android:layout_height="60dp"
+                        android:layout_margin="3dp"
+                        android:layout_weight="1"
+                        style="@style/Theme.AppCompat.Light.DarkActionBar"
+                        android:background="@drawable/circle"
+                        android:backgroundTint="@color/orange"
+                        android:text="@string/pluMinus"
+                        android:textColor="@color/blackacik"
+                        android:textSize="20sp" />
+
+                    <Button
+                        android:id="@+id/b0"
+                        android:layout_width="90dp"
+                        android:layout_height="60dp"
+                        android:layout_margin="3dp"
+                        android:layout_weight="1"
+                        style="@style/Theme.AppCompat.Light.DarkActionBar"
+                        android:background="@drawable/circle"
+                        android:backgroundTint="@color/blackacik"
+                        android:text="@string/b0"
+                        android:textColor="@color/orange"
+                        android:textSize="20sp" />
+
+                    <Button
+                        android:id="@+id/bvirgul"
+                        android:layout_width="90dp"
+                        android:layout_height="60dp"
+                        android:layout_margin="3dp"
+                        android:layout_weight="1"
+                        style="@style/Theme.AppCompat.Light.DarkActionBar"
+                        android:background="@drawable/circle"
+                        android:backgroundTint="@color/orange"
+                        android:text="@string/virgul"
+                        android:textColor="@color/blackacik"
+                        android:textSize="20sp">
+
+                    </Button>
+
+                    <Button
+                        android:id="@+id/besit"
+                        android:layout_width="90dp"
+                        android:layout_height="60dp"
+                        android:layout_margin="3dp"
+                        android:layout_weight="1"
+                        style="@style/Theme.AppCompat.Light.DarkActionBar"
+                        android:background="@drawable/circle"
+                        android:backgroundTint="@color/teal_700"
+                        android:text="@string/esit"
+                        android:textColor="@color/acıkiki"
+                        android:textSize="20sp">
+
+                    </Button>
+                </TableRow>
+            </TableLayout>
+
+        </RelativeLayout>
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

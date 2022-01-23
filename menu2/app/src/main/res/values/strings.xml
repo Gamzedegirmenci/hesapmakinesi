@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">menu</string>
+    <string name="hesap_makinesi">Hesap Makinesi</string>
+    <string name="donusturucu">Dönüştürücü</string>
+    <string name="standart">Standart</string>
+    <string name="bilimsel">Bilimsel</string>
+    <string name="programlayıcı">Programlayıcı</string>
+    <string name="tarih_hesaplama">Tarih Hesaplama</string>
+    <string name="para_birimi">Para Birimi</string>
+    <string name="hacim">Hacim</string>
+    <string name="uzunluk">Uzunluk</string>
+    <string name="kutle">Ağırlık ve Kütle</string>
+    <string name="sicaklik">Sıcaklık</string>
+    <string name="enerji">Enerji</string>
+    <string name="alan">Alan</string>
+    <string name="hiz">Hız</string>
+    <string name="zaman">Zaman</string>
+    <string name="guc">Güç</string>
+    <string name="veri">Veri</string>
+    <string name="basinc">Basınç</string>
+    <string name="aci">Açı</string>
+
+    <string name="b0">0</string>
+    <string name="b1">1</string>
+    <string name="b2">2</string>
+    <string name="b3">3</string>
+    <string name="b4">4</string>
+    <string name="b5">5</string>
+    <string name="b6">6</string>
+    <string name="b7">7</string>
+    <string name="b8">8</string>
+    <string name="b9">9</string>
+
+    <string name="virgul">,</string>
+    <string name="delete">←</string>
+    <string name="CE">CE</string>
+    <string name="C">C</string>
+
+    <string name="topla">+</string>
+    <string name="cikar">-</string>
+    <string name="carp">×</string>
+    <string name="bol">÷</string>
+    <string name="esit">=</string>
+
+    <string name="kok">²√×</string>
+    <string name="us">×²</string>
+    <string name="kesir">¹/×</string>
+    <string name="pluMinus">±</string>
+    <string name="yuzde">%</string>
+    <string name="log">log</string>
+    <string name="ın">In</string>
+    <string name="onx">10ˣ</string>
+    <string name="xussuy">xʸ</string>
+    <string name="parantezac">(</string>
+    <string name="parantezkapa">)</string>
+    <string name="faktor">n!</string>
+    <string name="mutlak">|x|</string>
+    <string name="exp">exp</string>
+    <string name="mod">mod</string>
+    <string name="ikind">2ⁿᵈ</string>
+    <string name="pi">π</string>
+    <string name="e">e</string>
+    <string name="trigonometri">Trigonometri</string>
+    <string name="sin">sin</string>
+    <string name="cos">cos</string>
+    <string name="tan">tan</string>
+    <string name="hyp">hyp</string>
+    <string name="sec">sec</string>
+    <string name="csc">csc</string>
+    <string name="cot">cot</string>
+
+    <string name="A">A</string>
+    <string name="B">B</string>
+    <string name="CC">C</string>
+    <string name="D">D</string>
+    <string name="E">E</string>
+    <string name="F">F</string>
+    <string name="ac">  </string> //Burayı unutma aşağıdakinin aynısı
+    <string name="kapa"> >> </string>
+    <string name="Hex">HEX</string>
+    <string name="Dec">DEC</string>
+    <string name="Oct">OCT</string>
+    <string name="Bin">BIN</string>
+
+    <string name="sutarihten">Şu Tarihten</string>
+    <string name="sutarihe">Şu Tarihe</string>
+    <string name="fark">Fark</string>
+    <string name="fark2">Aynı Tarihler</string>
+
+    <string name="milimetrekare">Milimetrekare</string>
+    <string name="santimetrekare">Santimetrekare</string>
+    <string name="metrekare">Metrekare</string>
+    <string name="hektar">Hektar</string>
+    <string name="kilometrekare">Kilometrekare</string>
+    <string name="inçkare">İnçkare</string>
+    <string name="futkare">Futkare</string>
+    <string name="yardakare">Yarda Kare</string>
+    <string name="donum">Dönüm</string>
+    <string name="milkare">Milkare</string>
+</resources>

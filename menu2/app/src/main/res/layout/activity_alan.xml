@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.drawerlayout.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/cekmece_arkaplan"
+    android:background="@color/black"
+    tools:context=".AlanActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <include
+            layout="@layout/alan_toolbar"/>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:id="@+id/txtsayigiris"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="40dp"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="15dp"
+                android:text="@string/b0"
+                android:textColor="@color/orange"
+                android:textSize="30sp" />
+
+            <Spinner
+                android:id="@+id/spnalan"
+                android:layout_marginLeft="40dp"
+                android:layout_marginBottom="10dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/blackacik"
+                android:backgroundTint="@color/orange" />
+
+            <TextView
+                android:id="@+id/txt1"
+                android:layout_marginLeft="40dp"
+                android:layout_marginBottom="10dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="30sp"
+                android:textColor="@color/orange"
+                android:text="@string/b0" />
+
+            <Spinner
+                android:id="@+id/spnalan0"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="40dp"
+                android:backgroundTint="@color/orange"
+                android:textColor="@color/blackacik" />
+        </LinearLayout>
+
+    </LinearLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+        <include layout="@layout/tus" />
+
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="300dp"
+        android:layout_height="match_parent"
+        android:background="@android:color/white"
+        android:layout_gravity="start">
+        <include
+            layout="@layout/menu_yonlendirme_cekmecesi"/>
+    </RelativeLayout>
+
+</androidx.drawerlayout.widget.DrawerLayout>
